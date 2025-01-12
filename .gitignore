@@ -1,0 +1,50 @@
+# Ignore all files in the Intermediate, Saved, and DerivedDataCache folders
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+# Ignore Unreal auto-generated files
+*.log
+*.tmp
+*.vs
+*.vscode
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Ignore Binary files
+/Binaries/
+
+# Ignore Build folder (optional, keep if you modify build scripts)
+/Build/
+
+# Ignore Config backups
+/Config/Backup/
+
+# Ignore crash reports
+/Saved/Logs/
+/Saved/Crashes/
+
+# Ignore local plugins and dependencies
+/Plugins/Developer/
+/Plugins/Experimental/
+
+# Ignore user-specific files
+*.ini
+*.uetmp
+*.uasset.tmp
+*.umap.tmp
+
+# Ignore platform-specific files
+/Build/Android/
+/Build/IOS/
+/Build/Linux/
+/Build/Mac/
+/Build/Windows/
+
+# Ignore unnecessary metadata
+.DS_Store
+Thumbs.db
