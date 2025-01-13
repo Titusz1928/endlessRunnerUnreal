@@ -15,5 +15,8 @@
 			"Name": "RLPlugin",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android"
 	]
 }
